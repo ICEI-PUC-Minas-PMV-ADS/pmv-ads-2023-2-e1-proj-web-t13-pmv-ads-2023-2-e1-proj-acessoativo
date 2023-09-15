@@ -22,16 +22,20 @@ Segundo a Pesquisa Nacional de Saúde (PNS) 2019, do Instituto Brasileiro de Geo
 
 Nesse contexto, é evidente que a escassez de locais que ofereçam aulas adequadas para diversas atividades físicas representa um obstáculo significativo a ser abordado. A busca por soluções que tornem a prática de exercícios mais acessível e personalizada é crucial para incentivar um maior engajamento da população em uma vida ativa e saudável. Ao superar essa dificuldade, não apenas indivíduos, mas também comunidades inteiras podem colher os benefícios de uma população mais saudável e resiliente.
 
-Abaixo, mostrará uma lista de sites/aplicativos que são parecidos com o projeto que estamos apresentando e elaborando.
+Abaixo, segue uma lista de sites/aplicativos que são parecidos com o projeto que estamos apresentando e elaborando:
 
 1) nicelocal.br.com. A NICE LOCAL é um site de buscas que visa ligar empresas de diversos ramos com consumidores, atua com recomendação sob demanda  e está disponível em vários países, EUA, Canadá, Reino Unido e outros 50.
-
 O site tem uma audiência mensal de mais de 20 milhões de usuários. As pessoas o usam para procurar várias empresas e organizações cujos serviços gostariam de usar.
-2) getninjas.com.br. A aplicação GETNINJAS visa ligar prestadores de serviços autônomos ou não  a clientes interessados. Criada em 2011, tem um portfólio de milhares de profissionais cadastrados e conta com mais de 500 opções de serviços. No primeiro trimestre de 2021, a companhia somou quase um milhão e meio de solicitações. 
+
+2) getninjas.com.br. A aplicação GETNINJAS visa ligar prestadores de serviços autônomos ou não  a clientes interessados. Criada em 2011, tem um portfólio de milhares de profissionais cadastrados e conta com mais de 500 opções de serviços. No primeiro trimestre de 2021, a companhia somou quase um milhão e meio de solicitações.
 Para o cliente, a plataforma oferece muitas vantagens como poder solicitar orçamentos e contratar serviços com agilidade, encontrando prestadores de serviço perto de suas regiões. Isso acaba beneficiando profissionais também, que têm a oportunidade de fechar mais negócios.
+
 3) jushelper.com.br. Com sede em São Paulo, a JUSHELPER tem por objetivo esclarecer as dúvidas mais comuns do cidadão no tocante a direitos e deveres, bem como aproximar a relação de advogados e possíveis clientes. O site conta com busca baseada na localização e especialidade do advogado.
+   
 4) gympass.com/academias. O GYMPASS é um benefício corporativo, disponível para colaboradores de empresas parceiras. Com uma assinatura mensal, é possível acessar diferentes academias e estúdios, sem contrato ou custo adicional. Através do campo de busca é possível localizar a academia mais próxima ao cliente.
-5) airbnb.com.br.. A americana AIRBNB nasceu em 2008 e opera um mercado online para estadias e experiências em casas de família de curto e longo prazo. A empresa atua como corretora e cobra uma comissão por cada reserva. 
+   
+5) airbnb.com.br.. A americana AIRBNB nasceu em 2008 e opera um mercado online para estadias e experiências em casas de família de curto e longo prazo. A empresa atua como corretora e cobra uma comissão por cada reserva.
+
 6) trivago.com.br. O TRIVAGO é um motor de busca e comparador de preço de hotéis e periféricos em geral, atualmente o maior do mundo. O site compara preços de mais de 700.000 hoteis e periféricos em mais de 200 sites de reserva e compra, como o Expedia, Booking.com, kabum.com ou Hoteis.com.
 
 
