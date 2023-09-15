@@ -1,25 +1,24 @@
-# Título do Projeto
+# Projeto Acesso Ativoo
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas - PUC Minas Virtual`
 
-`DISCIPLINA`
+`Desenvolvimento de Aplicação WEB Front-End`
 
-`SEMESTRE`
+`2º Semestre de 2023`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+Esse projeto consiste em desenvolver um site de Front-End, que forneça informações sobre locais e instrutores que oferecem uma variedade de atividades físicas. Os usuários devem poder filtrar os resultados com base na localização, modalidade, preço e acessar fotos, links de pré-cadastro, além de encontrar matérias e podcasts para incentivar a participação nas atividades esportivas.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Alana Barros Carvalho
+* Ana Luiza Armond de Souza
+* Guilherme Brito
+* Natan de Souza Carvalho
+* Walter Santos Claudino
 
 ## Orientador
 
-* Nome completo do professor
+* José Wilson da Costa
 
 # Documentação
 
