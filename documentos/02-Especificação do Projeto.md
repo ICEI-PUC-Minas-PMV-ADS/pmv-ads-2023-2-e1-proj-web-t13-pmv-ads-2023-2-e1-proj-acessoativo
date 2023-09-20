@@ -143,8 +143,7 @@
 | RNF-12    |  A aplicação deve ser compatível com diferentes browsers e sistemas operacionais, incluindo Windows, macOS, iOS e Android.                    | ALTA   | 
 | RNF-13    |  O sistema deverá proporcionar acessibilidade para deficientes visuais, auditivas e motoras, seguindo as diretrizes de acessibilidade                    | MÉDIA   | 
 | RNF-14    |  A aplicação deve ser capaz de se integrar com serviços de terceiros, como serviços de mapas para exibir a localização dos estabelecimentos.                    | MÉDIA   | 
-| RNF-15    |  A aplicação deve ter um sistema de backup regular para garantir a recuperação dos dados em caso de falhas ou perda de dados.
-                    | BAIXA   | 
+| RNF-15    |  A aplicação deve ter um sistema de backup regular para garantir a recuperação dos dados em caso de falhas ou perda de dados.                    | BAIXA   | 
 | RNF-16    |  A interface da aplicação deve ser intuitiva e de fácil navegação, mesmo para usuários inexperientes                    | MÉDIA   | 
 | RNF-17 |  A aplicação deve ser responsiva e funcionar bem em dispositivos móveis, tablets e desktops                    | ALTA   | 
 
