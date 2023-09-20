@@ -133,8 +133,7 @@
 | RNF-02    |  Os dados pessoais dos usuários, como informações de login e informações de pré-cadastro, devem ser armazenados de forma segura                    | ALTA   | 
 | RNF-03    |  Manutenção do software em dia                    | ALTA   | 
 | RNF-04    |  A aplicação deve ser facilmente atualizável para adicionar novas funcionalidades ou corrigir problemas.                    | ALTA   | 
-| RNF-05
-    |  O código-fonte deve ser bem documentado para facilitar a manutenção contínua.                    | ALTA   | 
+| RNF-05    |  O código-fonte deve ser bem documentado para facilitar a manutenção contínua.                    | ALTA   | 
 | RNF-06    |  Capaz de rodar em qualquer sistema                    | ALTA   | 
 | RNF-07    |  Cumprir todas as leis e regulamentos aplicáveis                    | ALTA   | 
 | RNF-08    |  O sistema deverá ter alta disponibilidade                    | MÉDIA   | 
