@@ -86,8 +86,11 @@
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| ...                | ...                       | ...                              |
-| ...                | ...                       | ...                              |
+|Como um iniciante interessado em atividades físicas                |desejo navegar pelas categorias de modalidades na aplicação                      | para descobrir quais tipos de exercícios estão disponíveis e aprender mais sobre eles.                              |
+| Como um iniciante em busca de atividades físicas           | quero inserir minha localização ou usar a geolocalização                 | para encontrar estabelecimentos próximos que ofereçam aulas da modalidade que me interessa.
+
+                           |...                | ...                       | ...
+| ...                | ...                       | ...    
 
 ## Requisitos do Projeto
 
