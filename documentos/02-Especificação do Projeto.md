@@ -97,16 +97,29 @@
 
 ## Requisitos do Projeto
 
-[Com base nas Histórias de Usuários, enumere os requisitos da solução. Lembre-se que cada requisito deve corresponder a uma, e somente uma, característica alvo da solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.]
-
 ### Requisitos Funcionais
 
 [Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
-| RF-01 |  ...                    | ...   | 
-|  ...  |  ...                    | ...   |
+| RF-01 |  Os usuários devem poder criar contas pessoais na aplicação                    | ALTA   | 
+| RF- 02 |  Os usuários podem fazer login e sair de suas contas                    | ALTA   |
+|  RF- 03  |  Os usuários podem navegar pelas categorias de modalidades esportivas oferecidas                    | ALTA   |
+|  RF- 04  |  Para cada categoria de modalidade esportiva, deve ser fornecida uma breve descrição que introduza os usuários às principais características e benefícios dessa modalidade                    | MÉDIA   |
+|  RF- 05  |  Os usuários podem inserir sua localização ou usar a geolocalização para encontrar estabelecimentos próximos                    | ALTA   |
+|  RF- 06  |  A aplicação deve apresentar os resultados das buscas de estabelecimentos em um formato que permita aos usuários escolher entre uma lista ou uma exibição em mapa                    | BAIXA   |
+|  RF- 07  |  Os usuários podem clicar em um estabelecimento para ver informações detalhadas, incluindo descrição, fotos e preço                    | MÉDIA   |
+|  RF- 08  |  Cada estabelecimento deve ter uma página própria                    | BAIXA   |
+|  RF- 09  |  Os usuários podem filtrar os resultados por faixa de preço e modalidade esportiva                    | ALTA   |
+|  RF- 10  |  Os usuários interessados em participar de aulas podem realizar o pré cadastro, onde vai fornecer informações básicas como nome, e-mail e telefone                    | ALTA   |
+|  RF- 11  |  Os usuários podem acessar uma seção dedicada a matérias e podcasts motivacionais relacionados à modalidades esportivas                    | BAIXA   |
+|  RF- 13  |  Os usuários registrados devem poder agendar aulas diretamente na plataforma, se os estabelecimentos permitirem                    | BAIXA   |
+|  RF- 14  |  Os usuários podem receber confirmações e lembretes de agendamento                    | MÉDIA   |
+|  RF- 15  |  Os usuários registrados podem acompanhar seu progresso, definir metas e receber recomendações personalizadas                    | ALTA   |
+|  RF- 16  |  Os usuários podem registrar as aulas que participaram                    | MÉDIA   |
+|  RF- 18  |  Os usuários podem fornecer feedback e avaliações para os estabelecimentos e personal trainers                    | ALTA   |
+
 
 **Prioridade: Alta / Média / Baixa. 
 
