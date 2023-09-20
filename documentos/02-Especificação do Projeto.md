@@ -7,15 +7,15 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Nome </th>
+<th colspan="2">Pefil de Usuário 1 - Iniciante Interessado </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">...</td>
+<td width="600px">João é um jovem adulto que nunca praticou esportes regularmente, mas está preocupado com sua saúde e deseja iniciar uma atividade física. Ele não tem conhecimento sobre as diferentes modalidades e não sabe por onde começar.</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>...</td>
+<td>João precisa de uma plataforma que o ajude a descobrir e entender as várias modalidades esportivas disponíveis. Ele também quer informações sobre locais próximos que oferecem essas atividades, bem como detalhes sobre preços e estrutura.</td>
 </tr>
 </tbody>
 </table>
