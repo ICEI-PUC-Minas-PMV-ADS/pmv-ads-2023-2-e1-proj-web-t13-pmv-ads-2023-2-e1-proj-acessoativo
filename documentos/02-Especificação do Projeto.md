@@ -21,6 +21,60 @@
 </table>
 
 
+
+<table>
+<tbody>
+<tr align=center>
+<th colspan="2">Pefil de Usuário 2 - Buscando Conveniência </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Renata é uma profissional ocupada que quer melhorar sua saúde e aparência, mas tem pouco tempo livre. Ela busca uma solução que facilite a busca por aulas de atividade física perto de sua casa ou trabalho, para que possa encaixar na sua agenda apertada.</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>Renata precisa de uma plataforma que permita a busca rápida e eficiente de aulas em locais próximos a ela. Ela também valoriza informações claras sobre preços e horários para que possa planejar sua participação.</td>
+</tr>
+</tbody>
+</table>
+
+
+
+<table>
+<tbody>
+<tr align=center>
+<th colspan="2">Pefil de Usuário 3 - Buscando Motivação</th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Carlos é um adulto que já tentou iniciar atividades físicas no passado, mas sempre desistiu devido à falta de motivação e orientação. Ele está interessado em tentar novamente, mas precisa de incentivos e recursos para se manter engajado.</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>Carlos procura uma plataforma que não apenas liste aulas e locais, mas também ofereça conteúdo motivacional, como matérias e podcasts relacionados a cada modalidade. Ele deseja sentir-se apoiado e informado ao iniciar sua jornada de bem-estar.</td>
+</tr>
+</tbody>
+</table>
+
+
+
+<table>
+<tbody>
+<tr align=center>
+<th colspan="2">Pefil de Usuário 4 - Interessado em Explorar </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Mariana é uma jovem universitária curiosa que gosta de experimentar coisas novas. Ela está interessada em explorar diferentes modalidades esportivas para encontrar algo que se adapte ao seu estilo e gostaria de conhecer as opções disponíveis em sua área.</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>Mariana procura uma plataforma que apresenta uma variedade de opções de atividades físicas, com descrições detalhadas e fotos dos estabelecimentos. Ela também valoriza a facilidade de pré-cadastro para testar diferentes aulas.</td>
+</tr>
+</tbody>
+</table>
+
+
 ## Histórias de Usuários
 
 [Apresente aqui as histórias de usuários que são relevantes para o projeto da solução.]
