@@ -14,7 +14,7 @@ Para melhor imersão no projeto, e implementação do método SCRUM, dividimos a
 
 ### Processo
 
-Para a implementação do método ágil, optamos por trabalhar com o quadro Kanban dentro da plataforma Github. O nosso quadro possuí os seguintes tópicos:
+Para a implementação do método ágil, optamos por trabalhar com o quadro Kanban dentro da plataforma Github (https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/655). O nosso quadro possuí os seguintes tópicos:
 
 - Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
 - To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
