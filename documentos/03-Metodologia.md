@@ -12,11 +12,6 @@ Para melhor imersão no projeto, e implementação do método SCRUM, dividimos a
 - Equipe de Desenvolvimento: Alana Barros Carvalho, Ana Luiza Armond de Souza, Guilherme Brito Fonseca e Silva, Natan de Souza Carvalho Walter Santos Claudino.
 - Equipe de Design: Natan de Souza Carvalho.
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
 ### Processo
 
 Para a implementação do método ágil, optamos por trabalhar com o quadro Kanban dentro da plataforma Github. O nosso quadro possuí os seguintes tópicos:
@@ -25,13 +20,6 @@ Para a implementação do método ágil, optamos por trabalhar com o quadro Kanb
 - To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
 - Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
 - Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
-
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
-
 
 ### Etiquetas
 <p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
