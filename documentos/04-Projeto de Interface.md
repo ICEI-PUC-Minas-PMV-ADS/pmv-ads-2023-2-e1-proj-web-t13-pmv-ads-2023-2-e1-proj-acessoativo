@@ -5,6 +5,7 @@
 O fluxograma abaixo apresenta a interação do usuário as páginas na quais ele irá acessar. Logo após esse fluxograma será apresentado o protótipo de baixa fidelidade explicando cada página e suas funções. 
 
 Segue o link para acessar o protótipo - https://marvelapp.com/prototype/6df7106 
+
 ![Captura de tela 2023-09-24 190231](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/117231834/9ef07071-f034-4537-88ff-77cfcae6016e)
 
 
