@@ -34,48 +34,56 @@ Rodapé - apresenta informações sobre os direitos autorais.
 Figura 2 - Estrutura padrão do site
 
 ### Tela - Login
+
 ![LOGIN](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/117231834/1daf7664-cab2-4e94-a79f-366eab8c2ff3)
 
 
 Figura 3 - Tela Login
 
 ### Tela - Cadastro
+
 ![CADASTRO](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/117231834/0fe3f4e8-5632-486c-9d5a-d4d9afa282a8)
 
 
 Figura 3 - Tela Cadastro
 
 ### Tela - Home 
+
 ![TELA HOME](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/117231834/3c7f403b-2bbb-43be-b510-3569593f1db9)
 
 
 Figura 4 - Tela Home page
 
 ### Tela - Pesquisa
+
 ![PESQUISA](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/117231834/61438ba1-bb26-47a2-9157-b58224e5220c)
 
 
 Figura 5 - Pesquisa
 
 ### Tela - Perfil
+
 ![PERFIL DO USUARIO](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/117231834/c6e976ec-778b-4a94-879f-4bede7ee3870)
 
 
 Figura 6 - Perfil
 
 ### Tela - Resultado Pesquisa
+
 ![RESULTADO DE PESQUISA](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/117231834/403a777b-cbf5-4f44-8945-f1f51cd40f1e)
 
 
 Figura 7 - Resultado de Pesquisa
 
 ### Tela - Sobre
+
 ![TELA SOBRE](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/117231834/0879e329-2d8e-4164-9cb5-75d01eb71399)
 
 
 Figura 8 - Sobre
 
 ### Tela - Contato
+
 ![CONTATO](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/117231834/89679a3b-0a42-429c-8cbb-f60a928ba60b)
 
 Figura 9 - Contato
