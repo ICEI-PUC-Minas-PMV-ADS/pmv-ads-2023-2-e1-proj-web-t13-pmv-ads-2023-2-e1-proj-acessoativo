@@ -2,6 +2,7 @@
 # Projeto de Interface
 
 ## User Flow
+
 O fluxograma abaixo apresenta a interação do usuário as páginas na quais ele irá acessar. Logo após esse fluxograma será apresentado o protótipo de baixa fidelidade explicando cada página e suas funções. 
 
 Segue o link para acessar o protótipo - https://marvelapp.com/prototype/6df7106 
@@ -9,10 +10,8 @@ Segue o link para acessar o protótipo - https://marvelapp.com/prototype/6df7106
 ![Captura de tela 2023-09-24 190231](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/117231834/9ef07071-f034-4537-88ff-77cfcae6016e)
 
 
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
+Figura 1 - Fluxo de telas do usuário
+
 
 ## Protótipo
 
@@ -20,18 +19,16 @@ Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas
 
 ### Protótipo de baixa fidelidade
 
-Protótipos de baixa fidelidade apresentam de forma simplificada o design da interface e o relacionamento entre suas páginas, permitindo evolução da proposta da solução. Neste projeto, os utilizaremos para apoiar a validação dos requisitos e efetuar mudanças dos mesmos, caso seja necessário, para menor impacto na codificação da aplicação.
+As telas do sistema apresentam uma estrutura comum que é apresentada na figura 2. Nesta estrutura existem 3 grandes blocos, descritos a seguir. São eles:
 
-[Elabore as principais interfaces gráficas da aplicação de modo que os requisitos funcionais sejam contemplados nas telas propostas.]
+Cabeçalho - local onde estão dispostos o nome da aplicação web e navegação principal do site (menu da aplicação);
+Conteúdo - apresenta o conteúdo da tela em questão;
+Barra de pesquisa - local onde será feita as pesquisas do desejo do usuário
+Rodapé - apresenta informações sobre os direitos autorais.
+![Captura de tela 2023-09-24 182138](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/117231834/347dbb8c-8987-452d-b8fa-2cf22e055d01)
 
-[Adicione aqui as telas da sua aplicação com seus devidos títulos.] 
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
->- Ferramentas:
->> - [Pencil](https://pencil.evolus.vn/)
->> - [MarvelApp](https://marvelapp.com/)
->> - [Figma](https://www.figma.com/)
+Figura 2 - Estrutura padrão do site
+
 
 
 
