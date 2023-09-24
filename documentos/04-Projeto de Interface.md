@@ -23,7 +23,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 
 Cabeçalho - local onde estão dispostos o nome da aplicação web e navegação principal do site (menu da aplicação);
 Conteúdo - apresenta o conteúdo da tela em questão;
-Barra de pesquisa - local onde será feita as pesquisas do desejo do usuário
+Barra de pesquisa - local onde será feita as pesquisas do desejo do usuário;
 Rodapé - apresenta informações sobre os direitos autorais.
 ![Captura de tela 2023-09-24 182138](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/117231834/347dbb8c-8987-452d-b8fa-2cf22e055d01)
 
