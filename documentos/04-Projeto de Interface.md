@@ -7,7 +7,7 @@ O fluxograma abaixo apresenta a interação do usuário as páginas na quais ele
 
 Segue o link para acessar o protótipo - https://marvelapp.com/prototype/6df7106 
 
-![Captura de tela 2023-09-24 190231](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/117231834/9ef07071-f034-4537-88ff-77cfcae6016e)
+![Fluxograma](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/145014567/3f649270-8e85-4b2c-a2b2-d2eb621cf304)
 
 
 Figura 1 - Fluxo de telas do usuário
