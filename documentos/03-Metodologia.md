@@ -44,7 +44,13 @@ O nosso quadro possuí os seguintes tópicos:
   
 ### Ferramentas
 
-[Descreva aqui as ferramentas empregadas no projeto e os ambiente de trabalho utilizados pela  equipe para desenvolvê-lo. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).]
+Até o momento foram utilizadas as seguintes ferramentas:
+<li>GitHub - Documentação e Organização do Projeto;
+<li>MarvelApp - Protótipo;
+<li>Microsoft PowerPoint - Protótipo de Baixa Fidelidade;
+<li>Discord - Reuniões e Tarefas em equipe;
+<li>Microsoft Teams - Reuniões e Discussões com o Orientador.
+
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 
