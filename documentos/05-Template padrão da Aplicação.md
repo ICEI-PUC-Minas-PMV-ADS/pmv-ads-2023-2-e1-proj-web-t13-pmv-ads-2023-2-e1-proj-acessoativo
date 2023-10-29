@@ -2,6 +2,12 @@
 
 Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
+<figure> 
+  <img src="blob:https://web.whatsapp.com/cb0f9930-f075-48d4-ba1b-0369455c6c1d"
+    <figcaption>Figura 2 - Estrutura padrão do site
+</figure> 
+<hr>
+
 [Apresente a estrutura padrão da sua aplicação.]
 
 > **Links Úteis**:
