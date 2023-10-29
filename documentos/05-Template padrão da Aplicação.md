@@ -2,7 +2,11 @@
 
 Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
-
+<figure> 
+  <img src="[https://user-images.githubusercontent.com/100447878/164074128-7b006e50-8621-4964-b0fd-07a90e626673.png](https://user-images.githubusercontent.com/145785838/278907886-f9e74cac-7365-4251-aeda-47f80330dfbb.PNG)"
+    <figcaption>Figura 2 - Estrutura padrão do site
+</figure> 
+<hr>
 
 [Apresente a estrutura padrão da sua aplicação.]
 
