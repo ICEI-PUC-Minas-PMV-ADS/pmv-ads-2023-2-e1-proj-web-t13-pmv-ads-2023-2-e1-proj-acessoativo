@@ -2,11 +2,7 @@
 
 Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
-<figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/issues/21#issue-1967221660"
-    <figcaption>Figura 2 - Estrutura padrão do site
-</figure> 
-<hr>
+
 
 [Apresente a estrutura padrão da sua aplicação.]
 
