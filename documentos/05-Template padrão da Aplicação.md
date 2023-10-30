@@ -1,12 +1,10 @@
+![Página padrão](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/145785838/db9777ce-25e5-4c1f-a214-3dab40b2b6fb)
 # Template padrão da Aplicação
 
 Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
-<figure> 
-  <img src="[https://user-images.githubusercontent.com/100447878/164074128-7b006e50-8621-4964-b0fd-07a90e626673.png](https://user-images.githubusercontent.com/145785838/278907886-f9e74cac-7365-4251-aeda-47f80330dfbb.PNG)"
-    <figcaption>Figura 2 - Estrutura padrão do site
-</figure> 
-<hr>
+Figura 2 - Estrutura padrão do site
+![Página padrão](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/145785838/db9777ce-25e5-4c1f-a214-3dab40b2b6fb)
 
 [Apresente a estrutura padrão da sua aplicação.]
 
