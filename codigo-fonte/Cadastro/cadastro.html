@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Página de Cadastro</title>
+    <link rel="stylesheet" href="cadastro.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Cadastro</h2>
+        <form id="registrationForm">
+            <label for="email">Email:</label>
+            <input type="text" id="email" name="email" required>
+
+            <label for="name">Nome:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="password">Senha:</label>
+            <input type="password" id="password" name="password" required>
+
+            <label for="confirmPassword">Confirme a Senha:</label>
+            <input type="password" id="confirmPassword" name="confirmPassword" required>
+
+            <label for="phone">Telefone:</label>
+            <input type="text" id="phone" name="phone" required>
+
+            <label for="terms">Aceitar os Termos e Condições:</label>
+            <input type="checkbox" id="terms" name="terms" required>
+
+            <input type="submit" value="Cadastrar">
+        </form>
+    </div>
+
+    <script>
+        document.getElementById("registrationForm").addEventListener("submit", function(event) {
+            event.preventDefault();
+            var email = document.getElementById("email").value;
+            var name = document.getElementById("name").value;
+            var password = document.getElementById("password").value;
+            var confirmPassword = document.getElementById("confirmPassword").value;
+            var phone = document.getElementById("phone").value;
+
+            console.log("Email: " + email);
+            console.log("Nome: " + name);
+            console.log("Senha: " + password);
+            console.log("Confirme a Senha: " + confirmPassword);
+            console.log("Telefone: " + phone);
+        });
+    </script>
+</body>
+</html>
