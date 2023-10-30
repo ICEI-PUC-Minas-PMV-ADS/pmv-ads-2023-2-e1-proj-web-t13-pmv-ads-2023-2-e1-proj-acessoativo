@@ -108,7 +108,7 @@
 |  RF- 15  |  Os usuários registrados podem acompanhar seu progresso, definir metas e receber recomendações personalizadas                    | ALTA   |
 |  RF- 16  |  Os usuários podem registrar as aulas que participaram                    | MÉDIA   |
 |  RF- 18  |  Os usuários podem fornecer feedback e avaliações para os estabelecimentos e personal trainers                    | ALTA   |
-
+| RF-19 |  Os usuários devem poder entrar em contato com os donos do projeto                    | ALTA   | 
 
 **Prioridade: Alta / Média / Baixa. 
 
