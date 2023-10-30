@@ -37,8 +37,56 @@ RF-01: Os usuários devem poder criar contas pessoais na aplicação
 
 #### Responsável
 
-[Adicione nome do responsável pelo desenvolvimento da funcionalidade]
+Natan
 
+### Tela de Login (RF-002)
+
+Responsável: Guilherme
+
+As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+Exemplo da tela de login: 
+
+![Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/145785838/46f8422f-c394-4200-87b2-9e5fdb929419)
+
+#### Requisito atendido
+
+RF-02: Os usuários podem fazer login e sair de suas contas.
+
+#### Artefatos da funcionalidade
+
+●login.css
+
+●login.html
+
+#### Estrutura de Dados
+
+[Caso exista estrutura de dados, adicione aqui]
+
+
+#### Instruções de acesso
+
+[Adicione as orientações de acesso à funcionalidade]
+
+### Tela de Contato (RF-19)
+
+Responsável: Walter
+
+As estruturas de dados foram baseadas em HTML e CSS.
+
+Exemplo da tela de contato: 
+
+![Fale conosco](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/145785838/93f6f029-7dd3-4573-9053-e4640741f233)
+
+#### Requisito atendido
+
+RF-19: Os usuários devem poder entrar em contato com os donos do projeto.
+
+#### Artefatos da funcionalidade
+
+●contato.css
+
+●contato.html
 
 
 
