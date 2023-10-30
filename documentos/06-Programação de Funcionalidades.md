@@ -2,7 +2,7 @@
 
 Implementação da aplicação descritas por meio dos requisitos codificados. 
 
-### Tela de Cadastro (RF-001)
+### Tela de Cadastro (RF-01)
 
 Responsável: Ana
 
@@ -35,7 +35,7 @@ RF-01: Os usuários devem poder criar contas pessoais na aplicação
 [Adicione as orientações de acesso à funcionalidade]
 
 
-### Tela de Login (RF-002)
+### Tela de Login (RF-02)
 
 Responsável: Guilherme
 
