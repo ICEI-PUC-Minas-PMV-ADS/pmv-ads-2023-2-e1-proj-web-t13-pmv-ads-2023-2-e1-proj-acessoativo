@@ -110,6 +110,8 @@
 |  RF- 18  |  Os usuários podem fornecer feedback e avaliações para os estabelecimentos e personal trainers                    | ALTA   |
 | RF-19 |  Os usuários devem poder entrar em contato com os donos do projeto                    | ALTA   | 
 | RF-20 |  Os usuários devem poder visualizar e alterar suas informações pessoais                   | ALTA   | 
+| RF-21 |  Os usuários devem poder visualizar informações sobre o site Acesso Ativo                   | ALTA   | 
+
 
 
 **Prioridade: Alta / Média / Baixa. 
