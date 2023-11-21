@@ -218,7 +218,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>Manutenção e Atualização</td>
+  <td>CT-06: Manutenção e Atualização</td>
   <td>
    <ul>
       <li>RNF-03: Manutenção do software em dia.</li>
