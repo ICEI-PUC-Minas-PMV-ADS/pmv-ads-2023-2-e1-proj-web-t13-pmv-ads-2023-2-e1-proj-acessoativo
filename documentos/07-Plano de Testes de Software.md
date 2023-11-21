@@ -301,7 +301,7 @@ Verificar se o código-fonte é bem documentado para facilitar a manutenção co
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-07: Compatibilidade e Integração:</td>
+  <td>CT-07: Compatibilidade e Integração</td>
   <td>
    <ul>
       <li>RF-06: Capaz de rodar em qualquer sistema.</li>
