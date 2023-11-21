@@ -83,23 +83,23 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
       Verificar se os usuários podem filtrar os resultados por faixa de preço e modalidade esportiva;</td>
   <td>
    <ol>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Acessar a página de categorias</li>
+    <li>Verificar se as categorias são exibidas</li>
+    <li>Clicar em uma categoria</li>
+    <li>Verificar se a descrição é exibida</li>
+    <li>Inserir uma localização</li>
+    <li>Executar a busca</li>
+    <li>Verificar se os resultados são relevantes à localização</li>
+    <li>Executar uma busca</li>
+    <li>Escolher entre lista e mapa</li>
+    <li>Verificar se os resultados são exibidos no formato escolhido</li>
+    <li>Clicar em um estabelecimento</li>
+    <li>Verificar se as informações detalhadas são exibidas</li>
+    <li>Clicar em um estabelecimento</li>
+    <li>Verificar se está na página do estabelecimento</li>
+    <li>Executar uma busca</li>
+    <li>Aplicar filtros</li>
+    <li>Verificar se os resultados são filtrados</li>
    </ol>
    </td>
   <td>O sistema apresenta uma navegação eficiente, garantindo que as categorias sejam claramente exibidas e acessíveis, proporcionando aos usuários a facilidade de explorar diferentes modalidades. Além disso, as descrições das categorias são apresentadas de forma precisa, fornecendo informações relevantes para uma escolha informada. A funcionalidade de busca demonstra eficácia ao produzir resultados que correspondem à localização inserida, promovendo uma experiência personalizada. A flexibilidade do sistema é evidente na exibição dos resultados, permitindo aos usuários escolher entre lista e mapa de acordo com suas preferências. As informações detalhadas de cada estabelecimento são apresentadas de maneira clara, proporcionando uma visão abrangente, e cada estabelecimento possui sua própria página, contribuindo para uma experiência mais detalhada e personalizada. Além disso, a capacidade de filtrar os resultados conforme as preferências do usuário adiciona uma camada adicional de personalização, aprimorando ainda mais a usabilidade do sistema.</td>
