@@ -32,13 +32,19 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
   <td>Verificar se os usuários podem criar contas pessoais, e confirmar que podem fazer login e logout em suas contas</td>
   <td>
    <ol>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Acessar a página de cadastro</li>
+    <li>Preencher os campos obrigatórios</li>
+    <li>Clicar no botão de cadastro</li>
+    <li>Verificar se foi redireionado corretamente</li>
+    <li>Acessar a página de login</li>
+    <li>Inserir credenciais válidas</li>
+    <li>Clicar no botão de login</li>
+    <li>Verificar se está logado</li>
+    <li>Clicar no botão de logout</li>
+    <li>Verificar se está deslogado</li>
    </ol>
    </td>
-  <td></td>
+  <td>O usuário consegue criar uma conta e é redirecionado para a página principal, e realizar login e logout com sucesso.</td>
   <td></td>
  </tr>
 </table>
