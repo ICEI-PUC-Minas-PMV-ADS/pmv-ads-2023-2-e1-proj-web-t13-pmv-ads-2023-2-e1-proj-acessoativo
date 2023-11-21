@@ -147,10 +147,41 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
       Confirmar se os usuários podem visualizar informações sobre o site.</td>
   <td>
    <ol>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Executar o pré-cadastro</li>
+    <li>Preencher as informações</li>
+    <li>Verificar se o pré-cadastro foi concluído</li>
+    <li>Acessar a seção de matérias e podcasts</li>
+    <li>Verificar se o conteúdo é acessível</li>
+    <li>Clicar em um conteúdo</li>
+    <li>Verificar se o conteúdo é exibido corretamente</li>
+    <li>Fazer o login</li>
+    <li>Escolher um estabelecimento</li>
+    <li>Agendar uma aula</li>
+    <li>Verificar se o agendamento foi registrado</li>
+    <li>Agendar uma aula</li>
+    <li>Verificar se recebe confirmação e lembrete</li>
+    <li>Fazer o login</li>
+    <li>Acessar a seção de acompanhamento de progresso</li>
+    <li>Verificar se as informações são exibidas corretamente</li>
+    <li>Clicar no botão de retorno</li>
+    <li>Fazer o login</li>
+    <li>Acessar a seção de registro de aulas</li>
+    <li>Registrar uma aula participada</li>
+    <li>Verificar se o registro é concluído</li>
+    <li>Fazer o login</li>
+    <li>Acessar a seção de feedback e avaliações</li>
+    <li>Forneçer feedback e avaliação para um estabelecimento</li>
+    <li>Verificar se o feedback e a avaliação são registrados</li>
+    <li>Acessar a seção de contato</li>
+    <li>Preencher o formulário de contato</li>
+    <li>Verificar se a mensagem é enviada com sucesso</li>
+    <li>Fazer o login</li>
+    <li>Acessar a seção de informações pessoais</li>
+    <li>Verificar se as informações são exibidas corretamente</li>
+    <li>Editar as informações</li>
+    <li>Verificar se as alterações são salvas</li>
+    <li>Acessar a seção de informações sobre o site</li>
+    <li>Verificar se as informações são exibidas corretamente</li>
    </ol>
    </td>
   <td>*Critérios de êxito*</td>
@@ -256,7 +287,7 @@ Verificar se o código-fonte é bem documentado para facilitar a manutenção co
     <li></li>
    </ol>
    </td>
-  <td>*Critérios de êxito*</td>
+  <td>O pré-cadastro é concluído com sucesso,e os usuários conseguem acessar matérias e podcasts, o agendamento é realizado com sucesso; o usuário recebe confirmações e lembretes, e consegue acompanhar seu progresso; o usuário consegue registrar as aulas participadas e pode fornecer feedback e avaliações e entrar em contato com os estabelecimentos; o usuário pode visualizar e alterar suas informações pessoais e visualizar informações sobre o site.</td>
   <td>*Responsável*</td>
  </tr>
 </table>
