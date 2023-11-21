@@ -300,7 +300,8 @@ Verificar se o código-fonte é bem documentado para facilitar a manutenção co
       <li>RNF-11:O tempo de resposta ao interagir com a aplicação, como fazer buscas ou abrir páginas de detalhes, deve ser rápido.</li>
    </ul>
   </td>
-  <td>*Objetivos do Teste*</td>
+  <td>Verificar se o sistema possui alta disponibilidade;
+      Testar se o sistema pode lidar com picos de tráfego, especialmente em horários de pico.</td>
   <td>
    <ol>
     <li></li>
