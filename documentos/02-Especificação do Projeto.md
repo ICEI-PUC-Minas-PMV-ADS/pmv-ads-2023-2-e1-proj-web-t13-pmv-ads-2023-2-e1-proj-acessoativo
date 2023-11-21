@@ -103,14 +103,14 @@
 |  RF- 09  |  Os usuários podem filtrar os resultados por faixa de preço e modalidade esportiva                    | ALTA   |
 |  RF- 10  |  Os usuários podem acessar o estabelecimento recomendado e fazer o cadastro                    | ALTA   |
 |  RF- 11  |  Os usuários podem acessar uma seção dedicada a matérias e podcasts motivacionais relacionados à modalidades esportivas                    | BAIXA   |
-|  RF- 13  |  Os usuários registrados devem poder agendar aulas diretamente na plataforma, se os estabelecimentos permitirem                    | BAIXA   |
-|  RF- 14  |  Os usuários podem receber confirmações e lembretes de agendamento                    | MÉDIA   |
-|  RF- 15  |  Os usuários registrados podem acompanhar seu progresso, definir metas e receber recomendações personalizadas                    | ALTA   |
-|  RF- 16  |  Os usuários podem registrar as aulas que participaram                    | MÉDIA   |
-|  RF- 18  |  Os usuários podem fornecer feedback e avaliações para os estabelecimentos e personal trainers                    | ALTA   |
-| RF-19 |  Os usuários devem poder entrar em contato com os donos do projeto                    | ALTA   | 
-| RF-20 |  Os usuários devem poder visualizar e alterar suas informações pessoais                   | ALTA   | 
-| RF-21 |  Os usuários devem poder visualizar informações sobre o site Acesso Ativo                   | ALTA   | 
+|  RF- 12  |  Os usuários registrados devem poder agendar aulas diretamente na plataforma, se os estabelecimentos permitirem                    | BAIXA   |
+|  RF- 13  |  Os usuários podem receber confirmações e lembretes de agendamento                    | MÉDIA   |
+|  RF- 14  |  Os usuários registrados podem acompanhar seu progresso, definir metas e receber recomendações personalizadas                    | ALTA   |
+|  RF- 15  |  Os usuários podem registrar as aulas que participaram                    | MÉDIA   |
+|  RF- 16  |  Os usuários podem fornecer feedback e avaliações para os estabelecimentos e personal trainers                    | ALTA   |
+| RF-17 |  Os usuários devem poder entrar em contato com os donos do projeto                    | ALTA   | 
+| RF-18 |  Os usuários devem poder visualizar e alterar suas informações pessoais                   | ALTA   | 
+| RF-19 |  Os usuários devem poder visualizar informações sobre o site Acesso Ativo                   | ALTA   | 
 
 
 
