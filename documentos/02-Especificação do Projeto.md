@@ -101,7 +101,7 @@
 |  RF- 07  |  Os usuários podem clicar em um estabelecimento para ver informações detalhadas, incluindo descrição, fotos e preço                    | MÉDIA   |
 |  RF- 08  |  Cada estabelecimento deve ter uma página própria                    | BAIXA   |
 |  RF- 09  |  Os usuários podem filtrar os resultados por faixa de preço e modalidade esportiva                    | ALTA   |
-|  RF- 10  |  Os usuários interessados em participar de aulas podem realizar o pré cadastro, onde vai fornecer informações básicas como nome, e-mail e telefone                    | ALTA   |
+|  RF- 10  |  Os usuários podem acessar o estabelecimento recomendado e fazer o cadastro                    | ALTA   |
 |  RF- 11  |  Os usuários podem acessar uma seção dedicada a matérias e podcasts motivacionais relacionados à modalidades esportivas                    | BAIXA   |
 |  RF- 13  |  Os usuários registrados devem poder agendar aulas diretamente na plataforma, se os estabelecimentos permitirem                    | BAIXA   |
 |  RF- 14  |  Os usuários podem receber confirmações e lembretes de agendamento                    | MÉDIA   |
