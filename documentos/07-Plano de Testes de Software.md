@@ -263,7 +263,9 @@ Verificar se o código-fonte é bem documentado para facilitar a manutenção co
       <li>RF-14: A aplicação deve ser capaz de se integrar com serviços de terceiros, como serviços de mapas para exibir a localização dos estabelecimentos.</li>
    </ul>
   </td>
-  <td>*Objetivos do Teste*</td>
+  <td>Testar se o software pode rodar em qualquer sistema;
+      Assegurar que a aplicação seja compatível com diferentes browsers;
+      Confirmar se a aplicação pode se integrar com serviços de terceiros, como serviços de mapas.</td>
   <td>
    <ol>
     <li></li>
@@ -290,10 +292,12 @@ Verificar se o código-fonte é bem documentado para facilitar a manutenção co
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>*Caso de Teste*</td>
+  <td>CT:08: Desempenho</td>
   <td>
    <ul>
-      <li>*Requisitos associados*</li>
+      <li>RNF-08: O sistema deverá ter alta disponibilidade.</li>
+      <li>RNF-09:O sistema deve ser capaz de lidar com picos de tráfego, especialmente em horários de pico.</li>
+      <li>RNF-11:O tempo de resposta ao interagir com a aplicação, como fazer buscas ou abrir páginas de detalhes, deve ser rápido.</li>
    </ul>
   </td>
   <td>*Objetivos do Teste*</td>
