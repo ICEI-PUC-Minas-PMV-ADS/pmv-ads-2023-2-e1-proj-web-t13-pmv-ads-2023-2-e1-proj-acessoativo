@@ -315,6 +315,20 @@ Verificar se o código-fonte é bem documentado para facilitar a manutenção co
  </tr>
 </table>
 
+table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
+th, td {
+  width: 16.67%; 
+  border: 1px solid #ddd; 
+  padding: 8px;
+}
+
+
+
 
 
 
