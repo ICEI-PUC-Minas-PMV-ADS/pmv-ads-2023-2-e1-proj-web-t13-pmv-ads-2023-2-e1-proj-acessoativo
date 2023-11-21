@@ -152,13 +152,13 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>*Caso de Teste*</td>
+  <td>CT-04: Responsividade e Adaptabilidade</td>
   <td>
    <ul>
-      <li>*Requisitos associados*</li>
+      <li>RNF-01: O Software deve ser responsivo e adaptável em diferentes dispositivos</li>
    </ul>
   </td>
-  <td>*Objetivos do Teste*</td>
+  <td>Verificar se o software é responsivo e adaptável em diferentes dispositivos.</td>
   <td>
    <ol>
     <li></li>
@@ -185,13 +185,13 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>*Caso de Teste*</td>
+  <td>CT-05: Segurança</td>
   <td>
    <ul>
-      <li>*Requisitos associados*</li>
+      <li>RNF-02: Os dados pessoais dos usuários, como informações de login e informações de pré-cadastro, devem ser armazenados de forma segura</li>
    </ul>
   </td>
-  <td>*Objetivos do Teste*</td>
+  <td>Confirmar que os dados pessoais dos usuários são armazenados de forma segura.</td>
   <td>
    <ol>
     <li></li>
@@ -218,13 +218,17 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>*Caso de Teste*</td>
+  <td>Manutenção e Atualização</td>
   <td>
    <ul>
-      <li>*Requisitos associados*</li>
+      <li>RNF-03: Manutenção do software em dia.</li>
+      <li>RNF-04: A aplicação deve ser facilmente atualizável para adicionar novas funcionalidades ou corrigir problemas.</li>
+      <li>RNF-05: O código-fonte deve ser bem documentado para facilitar a manutenção contínua.	</li>
    </ul>
   </td>
-  <td>*Objetivos do Teste*</td>
+  <td>Testar se a manutenção do software está em dia;
+Confirmar se a aplicação é facilmente atualizável para adicionar novas funcionalidades ou corrigir problemas;
+Verificar se o código-fonte é bem documentado para facilitar a manutenção contínua.</td>
   <td>
    <ol>
     <li></li>
