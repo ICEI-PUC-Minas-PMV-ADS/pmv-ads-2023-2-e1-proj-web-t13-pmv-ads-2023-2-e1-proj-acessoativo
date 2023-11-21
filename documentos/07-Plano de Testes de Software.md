@@ -58,13 +58,27 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>*Caso de Teste*</td>
+  <td>CT-02: Navegação e Busca</td>
   <td>
    <ul>
-      <li>*Requisitos associados*</li>
+      <li>RF-03: Os usuários podem navegar pelas categorias de modalidades esportivas oferecidas</li>
+      <li>RF-04: Para cada categoria de modalidade esportiva, deve ser fornecida uma breve descrição que introduza os usuários às principais características e benefícios dessa modalidade</li>
+      <li>RF-05: Os usuários podem inserir sua localização ou usar a geolocalização para encontrar estabelecimentos próximos</li>
+      <li>RF-06: A aplicação deve apresentar os resultados das buscas de estabelecimentos em um formato que permita aos usuários escolher entre uma lista ou uma exibição em mapa</li>
+      <li>RF-07: Os usuários podem clicar em um estabelecimento para ver informações detalhadas, incluindo descrição, fotos e preço</li>
+      <li>RF-08: Cada estabelecimento deve ter uma página própria</li>
+      <li>RF-09: Os usuários podem filtrar os resultados por faixa de preço e modalidade esportiva</li>
    </ul>
   </td>
-  <td>*Objetivos do Teste*</td>
+  <td>Certificar-se de que os usuários podem navegar pelas categorias de modalidades esportivas;
+      Garantir que a descrição de cada categoria seja exibida corretamente;
+      Verificar se os usuários podem inserir sua localização ou usar geolocalização para encontrar estabelecimentos próximos;
+      Confirmar que os resultados da busca são exibidos em um formato que permite escolher entre lista ou mapa;
+      Testar se os usuários podem visualizar informações detalhadas de um estabelecimento ao clicar sobre ele;
+      Assegurar que cada estabelecimento tenha uma página própria;
+      Verificar se os usuários podem filtrar os resultados por faixa de preço e modalidade esportiva;
+         
+  </td>
   <td>
    <ol>
     <li></li>
