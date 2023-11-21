@@ -354,7 +354,7 @@ Verificar se o código-fonte é bem documentado para facilitar a manutenção co
     <li>Avaliar o tempo de resposta ao realizar ações, como buscas e abertura de páginas.</li>
    </ol>
    </td>
-  <td>*O sistema tem alta disponibilidade,e capacidade de lidar com picos de tráfego e ter um tempo de resposta rápido.</td>
+  <td>O sistema tem alta disponibilidade,e capacidade de lidar com picos de tráfego e ter um tempo de resposta rápido.</td>
   <td>Natan</td>
  </tr>
 </table>
