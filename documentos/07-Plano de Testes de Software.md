@@ -66,7 +66,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
   </td>
   <td>*Objetivos do Teste*</td>
   <td>
-   <ol> Passos
+   <ol>
     <li></li>
     <li></li>
     <li></li>
