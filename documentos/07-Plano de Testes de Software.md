@@ -87,9 +87,22 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
     <li></li>
     <li></li>
     <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
    </ol>
    </td>
-  <td>*Critérios de êxito*</td>
+  <td>O sistema apresenta uma navegação eficiente, garantindo que as categorias sejam claramente exibidas e acessíveis, proporcionando aos usuários a facilidade de explorar diferentes modalidades. Além disso, as descrições das categorias são apresentadas de forma precisa, fornecendo informações relevantes para uma escolha informada. A funcionalidade de busca demonstra eficácia ao produzir resultados que correspondem à localização inserida, promovendo uma experiência personalizada. A flexibilidade do sistema é evidente na exibição dos resultados, permitindo aos usuários escolher entre lista e mapa de acordo com suas preferências. As informações detalhadas de cada estabelecimento são apresentadas de maneira clara, proporcionando uma visão abrangente, e cada estabelecimento possui sua própria página, contribuindo para uma experiência mais detalhada e personalizada. Além disso, a capacidade de filtrar os resultados conforme as preferências do usuário adiciona uma camada adicional de personalização, aprimorando ainda mais a usabilidade do sistema.</td>
   <td>*Responsável*</td>
  </tr>
 </table>
