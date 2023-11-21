@@ -6,8 +6,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 
 |Caso de teste   | Requisitos Associados |Objetivo do Teste           | Passos   | Critérios de êxito   | Responsável  |
 |--------------------|---------------------------|--------------------|----------------------|---------------------------|--------------------------|
-|                    |                           |                    |                      |                           |                          |
-
+|Cadastro e Autenticação |RF-01: Criar Conta Pessoal; RF-02: Login e Logout |Verificar se os Usuários podem criar contas pessoais com êxito e confirmar que podem fazer login e logout de suas contas|                           |                          |
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
 > -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
