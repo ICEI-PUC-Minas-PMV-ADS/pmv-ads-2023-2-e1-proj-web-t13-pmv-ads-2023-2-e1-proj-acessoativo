@@ -47,41 +47,6 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 
 
 
-<table>
- <tr>
-  <th>Caso de teste</th>
-  <th>Requisitos associados</th>
-  <th>Objetivo do teste</th>
-  <th>Passos</th>
-  <th>Critérios de êxito</th>
-  <th>Responsável</th>
- </tr>
- <tr>
-  <td>CT-01: Cadastro e Autenticação
-  
-  </td>
-  <td>
-   <ul>
-      <li>RF-01: Os usuários devem poder criar contas pessoas na aplicação</li>
-      <li>RF-02: Os usuários devem poder fazer login e sair de suas contas</li>
-   </ul>
-  </td>
-  <td>Verificar se os usuários podem criar contas pessoais, e confirmar que podem fazer login e logout em suas contas</td>
-  <td>
-   <ol>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-   </ol>
-   </td>
-  <td></td>
-  <td></td>
- </tr>
-</table>
-
-
-
 
 <table>
  <tr>
@@ -101,15 +66,15 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
   </td>
   <td>*Objetivos do Teste*</td>
   <td>
-   <ol>
+   <ol> Passos
     <li></li>
     <li></li>
     <li></li>
     <li></li>
    </ol>
    </td>
-  <td></td>
-  <td></td>
+  <td>*Critérios de êxito*</td>
+  <td>*Responsável*</td>
  </tr>
 </table>
 
