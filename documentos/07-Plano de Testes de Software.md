@@ -255,10 +255,12 @@ Verificar se o código-fonte é bem documentado para facilitar a manutenção co
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>*Caso de Teste*</td>
+  <td>CT-07: Compatibilidade e Integração:</td>
   <td>
    <ul>
-      <li>*Requisitos associados*</li>
+      <li>RF-06: Capaz de rodar em qualquer sistema.</li>
+      <li>RF-12: A aplicação deve ser compatível com diferentes browsers e sistemas operacionais, incluindo Windows, macOS, iOS e Android.</li>
+      <li>RF-14: A aplicação deve ser capaz de se integrar com serviços de terceiros, como serviços de mapas para exibir a localização dos estabelecimentos.</li>
    </ul>
   </td>
   <td>*Objetivos do Teste*</td>
