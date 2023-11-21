@@ -81,4 +81,104 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 
 
 
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>*Caso de Teste*</td>
+  <td>
+   <ul>
+      <li>*Requisitos associados*</li>
+   </ul>
+  </td>
+  <td>*Objetivos do Teste*</td>
+  <td>
+   <ol>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+   </ol>
+   </td>
+  <td>*Critérios de êxito*</td>
+  <td>*Responsável*</td>
+ </tr>
+</table>
+
+
+
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>*Caso de Teste*</td>
+  <td>
+   <ul>
+      <li>*Requisitos associados*</li>
+   </ul>
+  </td>
+  <td>*Objetivos do Teste*</td>
+  <td>
+   <ol>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+   </ol>
+   </td>
+  <td>*Critérios de êxito*</td>
+  <td>*Responsável*</td>
+ </tr>
+</table>
+
+
+
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>*Caso de Teste*</td>
+  <td>
+   <ul>
+      <li>*Requisitos associados*</li>
+   </ul>
+  </td>
+  <td>*Objetivos do Teste*</td>
+  <td>
+   <ol>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+   </ol>
+   </td>
+  <td>*Critérios de êxito*</td>
+  <td>*Responsável*</td>
+ </tr>
+</table>
+
+
+
+
+
 
