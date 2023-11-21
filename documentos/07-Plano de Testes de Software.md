@@ -76,9 +76,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
       Confirmar que os resultados da busca são exibidos em um formato que permite escolher entre lista ou mapa;
       Testar se os usuários podem visualizar informações detalhadas de um estabelecimento ao clicar sobre ele;
       Assegurar que cada estabelecimento tenha uma página própria;
-      Verificar se os usuários podem filtrar os resultados por faixa de preço e modalidade esportiva;
-         
-  </td>
+      Verificar se os usuários podem filtrar os resultados por faixa de preço e modalidade esportiva;</td>
   <td>
    <ol>
     <li></li>
@@ -105,13 +103,31 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>*Caso de Teste*</td>
+  <td>CT-03: Interação do Usuário</td>
   <td>
    <ul>
-      <li>*Requisitos associados*</li>
+      <li>RF-10: Os usuários interessados em participar de aulas podem realizar o pré cadastro, onde vai fornecer informações básicas como nome, e-mail e telefone</li>
+      <li>RF-11: Os usuários podem acessar uma seção dedicada a matérias e podcasts motivacionais relacionados à modalidades esportivas</li>
+      <li>RF-13: Os usuários registrados devem poder agendar aulas diretamente na plataforma, se os estabelecimentos permitirem</li>
+      <li>RF-14: Os usuários podem receber confirmações e lembretes de agendamento</li>
+      <li>RF-15: Os usuários registrados podem acompanhar seu progresso, definir metas e receber recomendações personalizadas</li>
+      <li>RF-16: Os usuários podem registrar as aulas que participaram</li>
+      <li>RF-18: Os usuários podem fornecer feedback e avaliações para os estabelecimentos e personal trainers</li>
+      <li>RF-19: Os usuários devem poder entrar em contato com os donos do projeto</li>
+      <li>RF-20: Os usuários devem poder visualizar e alterar suas informações pessoais</li>
+      <li>RF-21: Os usuários devem poder visualizar informações sobre o site Acesso Ativo</li>
    </ul>
   </td>
-  <td>*Objetivos do Teste*</td>
+  <td>Testar se os usuários interessados podem realizar o pré-cadastro fornecendo informações básicas;
+      Confirmar que os usuários podem acessar a seção dedicada a matérias e podcasts motivacionais;
+      Verificar se os usuários registrados podem agendar aulas diretamente na plataforma;
+      Testar se os usuários recebem confirmações e lembretes de agendamento;
+      Assegurar que os usuários registrados podem acompanhar seu progresso, definir metas e receber recomendações personalizadas;
+      Confirmar que os usuários podem registrar as aulas que participaram;
+      Verificar se os usuários podem fornecer feedback e avaliações para estabelecimentos e personal trainers;
+      Testar se os usuários podem entrar em contato com os donos do projeto;
+      Garantir que os usuários possam visualizar e alterar suas informações pessoais;
+      Confirmar se os usuários podem visualizar informações sobre o site.</td>
   <td>
    <ol>
     <li></li>
