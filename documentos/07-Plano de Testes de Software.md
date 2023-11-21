@@ -5,7 +5,6 @@
 Os testes funcionais a serem realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste]
 
 |Caso de Teste    | 
-|:---|:---|
 | Requisitos Associados | 
 | Objetivo do Teste | 
 | Passos | 
