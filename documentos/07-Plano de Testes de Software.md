@@ -184,7 +184,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
     <li>Verificar se as informações são exibidas corretamente</li>
    </ol>
    </td>
-  <td>*Critérios de êxito*</td>
+  <td>O pré-cadastro é concluído com sucesso,e os usuários conseguem acessar matérias e podcasts, o agendamento é realizado com sucesso; o usuário recebe confirmações e lembretes, e consegue acompanhar seu progresso; o usuário consegue registrar as aulas participadas e pode fornecer feedback e avaliações e entrar em contato com os estabelecimentos; o usuário pode visualizar e alterar suas informações pessoais e visualizar informações sobre o site.</td>
   <td>*Responsável*</td>
  </tr>
 </table>
@@ -287,7 +287,7 @@ Verificar se o código-fonte é bem documentado para facilitar a manutenção co
     <li></li>
    </ol>
    </td>
-  <td>O pré-cadastro é concluído com sucesso,e os usuários conseguem acessar matérias e podcasts, o agendamento é realizado com sucesso; o usuário recebe confirmações e lembretes, e consegue acompanhar seu progresso; o usuário consegue registrar as aulas participadas e pode fornecer feedback e avaliações e entrar em contato com os estabelecimentos; o usuário pode visualizar e alterar suas informações pessoais e visualizar informações sobre o site.</td>
+  <td></td>
   <td>*Responsável*</td>
  </tr>
 </table>
