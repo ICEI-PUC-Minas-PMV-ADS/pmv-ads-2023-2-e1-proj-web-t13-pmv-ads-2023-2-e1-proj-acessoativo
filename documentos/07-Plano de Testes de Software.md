@@ -22,9 +22,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
   <th>Responsável</th>
  </tr>
  <tr>
-  <td> CT-01: Cadastro e Autenticação
-  
-  </td>
+  <td> CT-01: Cadastro e Autenticação </td>
   <td>
    <ul>
       <li>RF-01: Os usuários devem poder criar contas pessoas na aplicação</li>
@@ -58,9 +56,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
   <th>Responsável</th>
  </tr>
  <tr>
-  <td> CT-02: Navegação e Busca
-  
-  </td>
+  <td> CT-02: Navegação e Busca</td>
   <td>
    <ul>
       <li>RF-03: Os usuários podem navegar pelas categorias de modalidades esportivas oferecidas</li>
@@ -105,9 +101,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-03: Interação do Usuário
-  
-  </td>
+  <td>CT-03: Interação do Usuário</td>
   <td>
    <ul>
       <li>RF-10: Os usuários interessados em participar de aulas podem realizar o pré cadastro, onde vai fornecer informações básicas como nome, e-mail e telefone</li>
