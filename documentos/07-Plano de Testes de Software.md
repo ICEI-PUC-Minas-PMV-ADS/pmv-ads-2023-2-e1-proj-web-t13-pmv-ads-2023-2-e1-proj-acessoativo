@@ -45,7 +45,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
    </ol>
    </td>
   <td>O usuário consegue criar uma conta e é redirecionado para a página principal, e realizar login e logout com sucesso.</td>
-  <td></td>
+  <td>Ana Luiza</td>
  </tr>
 </table>
 
@@ -103,7 +103,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
    </ol>
    </td>
   <td>O sistema apresenta uma navegação eficiente, garantindo que as categorias sejam claramente exibidas e acessíveis, proporcionando aos usuários a facilidade de explorar diferentes modalidades. Além disso, as descrições das categorias são apresentadas de forma precisa, fornecendo informações relevantes para uma escolha informada. A funcionalidade de busca demonstra eficácia ao produzir resultados que correspondem à localização inserida, promovendo uma experiência personalizada. A flexibilidade do sistema é evidente na exibição dos resultados, permitindo aos usuários escolher entre lista e mapa de acordo com suas preferências. As informações detalhadas de cada estabelecimento são apresentadas de maneira clara, proporcionando uma visão abrangente, e cada estabelecimento possui sua própria página, contribuindo para uma experiência mais detalhada e personalizada. Além disso, a capacidade de filtrar os resultados conforme as preferências do usuário adiciona uma camada adicional de personalização, aprimorando ainda mais a usabilidade do sistema.</td>
-  <td>*Responsável*</td>
+  <td>Alana*</td>
  </tr>
 </table>
 
@@ -185,7 +185,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
    </ol>
    </td>
   <td>O pré-cadastro é concluído com sucesso,e os usuários conseguem acessar matérias e podcasts, o agendamento é realizado com sucesso; o usuário recebe confirmações e lembretes, e consegue acompanhar seu progresso; o usuário consegue registrar as aulas participadas e pode fornecer feedback e avaliações e entrar em contato com os estabelecimentos; o usuário pode visualizar e alterar suas informações pessoais e visualizar informações sobre o site.</td>
-  <td>*Responsável*</td>
+  <td>Natan</td>
  </tr>
 </table>
 
@@ -218,7 +218,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
    </ol>
    </td>
   <td>*Critérios de êxito*</td>
-  <td>*Responsável*</td>
+  <td>Walter</td>
  </tr>
 </table>
 
@@ -251,7 +251,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
    </ol>
    </td>
   <td>*Critérios de êxito*</td>
-  <td>*Responsável*</td>
+  <td>Guilherme</td>
  </tr>
 </table>
 
@@ -288,7 +288,7 @@ Verificar se o código-fonte é bem documentado para facilitar a manutenção co
    </ol>
    </td>
   <td></td>
-  <td>*Responsável*</td>
+  <td>Ana</td>
  </tr>
 </table>
 
@@ -325,7 +325,7 @@ Verificar se o código-fonte é bem documentado para facilitar a manutenção co
    </ol>
    </td>
   <td>*Critérios de êxito*</td>
-  <td>*Responsável*</td>
+  <td>Alana</td>
  </tr>
 </table>
 
@@ -361,7 +361,7 @@ Verificar se o código-fonte é bem documentado para facilitar a manutenção co
    </ol>
    </td>
   <td>*Critérios de êxito*</td>
-  <td>*Responsável*</td>
+  <td>Natan</td>
  </tr>
 </table>
 
