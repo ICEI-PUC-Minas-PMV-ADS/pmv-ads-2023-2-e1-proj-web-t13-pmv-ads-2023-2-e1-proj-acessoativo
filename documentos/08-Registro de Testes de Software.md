@@ -13,6 +13,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
   Responsável: Ana Luiza.
   <p>*adicionar informações</p>
+  
   ![Captura de tela 2023-11-26 184022](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/145014567/4259f9a2-743f-4536-a480-e56ab13d0ac6)
 
   ![Captura de tela 2023-11-26 183949](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/145014567/06278d42-3b1e-4180-873e-b28d2db84fa7)
