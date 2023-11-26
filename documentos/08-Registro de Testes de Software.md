@@ -9,7 +9,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 <ol>
   <li> CT-01: Cadastro e Autenticação.
-  Verificar se os usuários conseguem criar contas pessoais e realizar login e logoff.
+  <p>Verificar se os usuários conseguem criar contas pessoais e realizar login e logoff.</p>
 
   Responsável: Ana Luiza.
   <p>*adicionar informações</p>
@@ -19,7 +19,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
   <hr>
   
   <li> CT-02: Navegação e Busca.
-  Verifica se os Usuários conseguem navegar buscando por categorias/modalidades.
+  <p>Verifica se os Usuários conseguem navegar buscando por categorias/modalidades.</p>
 
   Responsável: Alana.
   <p>*adicionar informações</p>
