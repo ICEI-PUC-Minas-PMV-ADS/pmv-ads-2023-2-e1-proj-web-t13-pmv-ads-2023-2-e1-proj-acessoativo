@@ -35,7 +35,6 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
   <p>Verifica se os Usuários conseguem navegar buscando por categorias/modalidades.</p>
 
   Responsável: Alana.
-  <p>*adicionar informações</p>
 
   ![Captura de tela 2023-11-26 183553](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/145014567/ca25d7b2-6c36-4a36-99dc-c6236e7cfeaf)
 
