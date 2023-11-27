@@ -62,9 +62,12 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
   <li> CT-04: Responsividade e Adaptabilidade.
    
   Responsável: Walter. 
-  <p>*adicionar informações</p>
+  <p>Os testes de responsividade não demonstraram resultados positivos. Necessita de ajustes.</p>
 
   ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/145014567/7166669b-1c0c-4b4a-9180-f3053a704574)
+
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/145014567/994e3303-008a-4dc5-9502-e63a325cd25f)
+
 
 
   </li>
