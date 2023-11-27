@@ -56,11 +56,13 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
   </li>
   <hr>
   
-  <li> CT-04: REsponsividade e Adaptabilidade.
+  <li> CT-04: Responsividade e Adaptabilidade.
    
   Responsável: Walter. 
   <p>*adicionar informações</p>
-  *inserir imagem/video*
+
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/145014567/7166669b-1c0c-4b4a-9180-f3053a704574)
+
 
   </li>
   <hr>
