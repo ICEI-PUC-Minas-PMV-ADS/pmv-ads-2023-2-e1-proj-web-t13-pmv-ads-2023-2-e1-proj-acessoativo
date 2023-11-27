@@ -49,8 +49,6 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
   Responsável: Natan.
   <p>*adicionar informações</p>
 
-![Captura de tela 2023-11-26 183553](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/145014567/8f231917-2a62-451c-b927-0bd4375b4b65)
-
 ![Captura de tela 2023-11-26 183202](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/145014567/95289790-a982-4b68-bb7d-624fa773c3b9)
 
 ![Agendamento](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/145014567/4718f726-3807-4bd4-a743-8bfc47ebaad8)
@@ -78,8 +76,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
   Responsável: Guilherme. 
   <p>*adicionar informações</p>
   *inserir imagem/video*
-   <p>Usuário preenche os campos "Email" e "Senha" com valores diferentes do usuário já cadastrado.</p>
-  
+
 
   </li>
   <hr>
