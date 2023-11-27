@@ -70,43 +70,4 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
   </li>
   <hr>
   
-  <li> CT-05: Segurança.
-
-  Responsável: Guilherme. 
-  <p>*adicionar informações</p>
-  *inserir imagem/video*
-
-
-  </li>
-  <hr>
   
-  <li> CT-06: Manutenção e Atualização.
-
-  Responsável: Ana Luiza. 
-  <p>*adicionar informações</p>
-  *inserir imagem/video*  
- 
-  </li>
-  <hr>
-  
-  <li> CT-07: Compatibilidade e Integração.
-
-  Responsável: Alana. 
-  <p>*adicionar informações</p>
-  *inserir imagem/video*  
-
-
-  </li>
-  <hr>
-  
-  <li> CT-08: Desempenho.
-  
-
-  Responsável: Natan. 
-  <p>*adicionar informações</p>
-  *inserir imagem/video*  
-
-  </li>
-  <hr>
-  
- 
