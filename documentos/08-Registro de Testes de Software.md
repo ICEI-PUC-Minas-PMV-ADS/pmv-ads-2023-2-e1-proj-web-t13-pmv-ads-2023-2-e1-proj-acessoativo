@@ -60,6 +60,20 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 ![Captura de tela 2023-11-26 183420](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/145014567/1473f20a-be27-4821-ab10-3e06fe61c805)
 
+<p>Telas de Recomendação</p>
+
+![Captura de tela 2023-11-26 183838](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/145014567/a6df93c1-4aca-4c34-be37-223325a66b4d)
+
+![Captura de tela 2023-11-26 183901](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/145014567/6db8b68d-bb98-4965-abbe-193eb1822220)
+
+<p>Tela de Divulgação</p>
+
+![Captura de tela 2023-11-26 183816](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/145014567/70c2517c-7d85-47c8-be48-77b18c3779cc)
+
+![Captura de tela 2023-11-26 183746](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/145014567/f74afd0b-761b-42ae-920e-b0fc68187b5d)
+
+![Captura de tela 2023-11-26 183711](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/145014567/17021cf4-f735-43d0-845c-3653f9a0da65)
+
   </li>
   <hr>
   
