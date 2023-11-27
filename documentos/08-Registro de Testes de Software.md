@@ -66,7 +66,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 ![Captura de tela 2023-11-26 183901](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/145014567/6db8b68d-bb98-4965-abbe-193eb1822220)
 
-<p>Tela de Divulgação</p>
+<p>Telas de Divulgação</p>
 
 ![Captura de tela 2023-11-26 183816](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/145014567/70c2517c-7d85-47c8-be48-77b18c3779cc)
 
