@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2 {
+    text-align: center;
+}
+
+.container-gridposicionamento-header {
+    width: 1200px;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+header {
+    background-color: yellow;
+    height: 60px;
+}
+
+a img {
+    width: 100px;
+    height: 100px;
+}
+
+.menu-search {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu {
+    margin-left: 20px;
+}
+
+.search-box {
+    display: flex;
+    align-items: center;
+}
+
+.menu {
+    width: 660px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu a {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+section {
+    width: 100%;    
+}
+
+section form {
+    height: 100%;
+    width: 100%;
+    color: black;
+    min-width: 300px;   
+}
+
+legend {
+    text-align: center;
+    font-size: 350%;
+}
+
+label {
+    text-align: left;
+}
+
+.option {
+    width: 200px;
+}
+
+.option1 {
+    width: 60%;
+}
+
+footer {
+    background-color: yellow;
+    clear: both;  
+    margin-top: 900px;  
+}
+
+header div a img {
+    width: 100px;
+    height: 100px;
+}
+
+section form img {    
+    width: 300px;
+    height: 300px;
+    margin-left: 45%;    
+}
+th {
+    color: white;
+    background-color: grey;
+}
+
+td {
+    background-color: azure;
+}
+
+table {
+    width: 100%;
+    background-color: white;
+}

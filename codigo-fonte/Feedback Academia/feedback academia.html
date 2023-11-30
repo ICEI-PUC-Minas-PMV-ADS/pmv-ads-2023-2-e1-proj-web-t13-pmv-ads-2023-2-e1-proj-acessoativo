@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feedback Academia</title>
+    <link rel="stylesheet" href="style3.css">
+</head>
+
+<body>
+
+    <header>
+        <div class="container-gridposicionamento-header">
+            <div class="menu-search">
+                <nav id="menu" class="menu">
+                    <a href="">Home</a>
+                    <a href="">Sobre</a>
+                    <a href="">Contato</a>
+                    <a href="">Perfil</a>
+                    <a href="">Agendamento</a>
+                    <a href="">Feedback</a>
+                </nav>
+                <div class="search-box">
+                    <input type="text" placeholder="Pesquisar...">
+                    <button>Buscar</button>
+                </div>
+            </div>
+            <a href=""><img class="logo" src="LOGO (2).png" alt="Logo do site"></a>
+        </div>
+    </header>
+
+    <section class="secao">                                                                                                                                                                                                                                                                                                                                                                                                                                       
+
+    <form>
+        <fieldset>
+            <legend>Escolha Academia: </legend>
+            <label for="nome">Academia:</label> <br>
+            <input class="option" type="text" id="pesquisa" name="pesquisa" placeholder="Academia PB"> <br>
+        </fieldset>
+        <fieldset>
+            <legend>Avaliação: </legend>     
+        <label for="nomeCliente">Nome do Cliente:</label> <br>
+        <input class="option"  type="text" id="nomeCliente" name="nomeCliente" required> <br>
+
+
+        <label for="nomeProfessor">Nome do Professor:</label> <br>
+        <input class="option"  type="text" id="nomeProfessor" name="nomeProfessor" required> <br>
+
+
+        <label for="condutaAula">Conduta da Aula:</label> <br>
+        <select class="option"  id="condutaAula" name="condutaAula" required> 
+            <option value="excelente">Excelente</option>
+            <option value="bom">Bom</option>
+            <option value="regular">Regular</option>
+            <option value="ruim">Ruim</option>
+        </select> <br>
+
+
+        <label for="infraestrutura">Infraestrutura do Estabelecimento:</label> <br>
+        <select class="option"  id="infraestrutura" name="infraestrutura" required>
+            <option value="excelente">Excelente</option>
+            <option value="bom">Bom</option>
+            <option value="regular">Regular</option>
+            <option value="ruim">Ruim</option>
+        </select> <br>
+
+
+        <label for="equipamentos">Listagem de Equipamentos Usados:</label> <br>
+        <textarea class="option"  id="equipamentos" name="equipamentos" rows="4" required></textarea> <br>
+
+        <button type="submit">Enviar Avaliação</button>
+    </fieldset>
+    <img src="logoacademia.jpg" alt="logo">
+    </form>
+</section>
+<footer class="rodape">
+    <p>&copy; 2023 Acesso Ativo. Todos os direitos reservados.</p>
+</footer>
+</body>
+
+</html>

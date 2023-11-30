@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pesquisa</title>
+    <link rel="stylesheet" href="pesquisa.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+</head>
+
+<body>
+    <header>
+        <div class="container-grid posicionamento-header">
+            <div class="menu-search">
+                <nav id="menu" class="menu">
+                    <a href="/Menu/index.html">Home</a>
+                    <a href="/Sobre/sobre.html">Sobre</a>
+                    <a href="/Contato/contato.html">Contato</a>
+                    <a href="/Perfil/perfil.html">Perfil</a>
+                </nav>
+                <div class="search-box">
+                    <a href="/Pesquisa/pesquisa.html"><button class="btn btn-sucess">Pesquisar</button></a>
+                </div>
+            </div>
+            <a href="/Menu/index.html"><img class="logo" src="/Sobre/img/logoacessoativo.png" alt="Logo do site"></a>
+        </div>
+    </header>
+
+    <main>
+        <h1 class="texto-centro">Pesquise o que deseja aqui</h1>
+        <div class="filtros">
+            <label for="modalidade">Modalidade:</label>
+            <select id="modalidade" name="modalidade">
+                <option value="musculacao">Musculação</option>
+                <option value="natacao">Natação</option>
+                <option value="futebol">Futebol</option>
+                <option value="ginastica-artistica">Ginástica Artistica</option>
+                <option value="crossfit">CrossFit</option>
+                <option value="boxe">Boxe</option>
+                <option value="ciclismo">Ciclismo</option>
+                <option value="basquete">Basquete</option>
+                <option value="outros">Outros</option>
+            </select>
+
+            <label for="faixa-preco">Faixa de Preço:</label>
+            <select id="faixa-preco" name="faixa-preco">
+                <option value="50-75">50 - 75</option>
+                <option value="75-100">75 - 100</option>
+                <option value="100-150">100 - 150</option>
+                <option value="150-mais">150 ou mais</option>
+            </select>
+
+            <label for="deficiencia">Você possui alguma deficiência?</label>
+            <select id="deficiencia" name="deficiencia">
+                <option value="sim">Sim</option>
+                <option value="nao">Não</option>
+            </select>
+
+            <label for="sexo">Qual seu sexo?</label>
+            <select id="sexo" name="sexo">
+                <option value="masculino">Masculino</option>
+                <option value="feminino">Feminino</option>
+                <option value="outros">Outros</option>
+            </select>
+        </div>
+        <div class="filtros">
+     <button class="btn btn-primary">Pesquisar</button>
+    </div>
+    <label for="terms">Gostaria de receber recomendações através do seu email ?:</label>
+            <input type="checkbox" id="terms" name="terms" required>
+    </main>
+
+
+    <footer>
+        <div class="container-grid">
+            <p> 2023 Acesso Ativo. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+</body>
+
+</html>
