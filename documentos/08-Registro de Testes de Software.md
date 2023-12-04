@@ -8,15 +8,15 @@
 
   Responsável: Ana Luiza.
   
-### <p>Tela de Cadastro</p>
+<p>Tela de Cadastro</p>
   
   ![Captura de tela 2023-11-26 184022](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/145014567/4259f9a2-743f-4536-a480-e56ab13d0ac6)
 
-### <p>Tela de Login</p>
+<p>Tela de Login</p>
 
   ![Captura de tela 2023-11-26 183949](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/145014567/06278d42-3b1e-4180-873e-b28d2db84fa7)
 
-### <p>Tela de Perfil</p>
+<p>Tela de Perfil</p>
 <p>obs: A funcionalidade de logoff não foi desenvolvida.</p>
 
   ![Captura de tela 2023-11-26 183520](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/145014567/db598be9-c3c0-4c61-841b-2b5f33522339)
