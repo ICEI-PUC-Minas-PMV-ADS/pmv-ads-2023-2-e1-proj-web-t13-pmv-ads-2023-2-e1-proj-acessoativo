@@ -13,7 +13,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
   Responsável: Ana Luiza.
   
-  <p>Tela de Cadastro</p>
+<p>Tela de Cadastro</p>
   
   ![Captura de tela 2023-11-26 184022](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/145014567/4259f9a2-743f-4536-a480-e56ab13d0ac6)
 
@@ -26,7 +26,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
   ![Captura de tela 2023-11-26 183520](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/145014567/db598be9-c3c0-4c61-841b-2b5f33522339)
 
-
+##
 
   </li> 
   <hr>
@@ -38,7 +38,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
   ![Captura de tela 2023-11-26 183553](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/assets/145014567/ca25d7b2-6c36-4a36-99dc-c6236e7cfeaf)
 
-  
+##  
     
   </li>
   <hr>
@@ -76,6 +76,8 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
   </li>
   <hr>
+
+  ##
   
   <li> CT-04: Responsividade e Adaptabilidade.
    
