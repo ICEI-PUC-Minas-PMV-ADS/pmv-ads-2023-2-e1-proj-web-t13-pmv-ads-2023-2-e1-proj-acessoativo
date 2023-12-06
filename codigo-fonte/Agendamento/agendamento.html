@@ -13,36 +13,35 @@
         <div class="container-gridposicionamento-header">
             <div class="menu-search">
                 <nav id="menu" class="menu">
-                    <a href="">Home</a>
-                    <a href="">Sobre</a>
-                    <a href="">Contato</a>
-                    <a href="">Perfil</a>
-                    <a href="">Agendamento</a>
-                    <a href="">Feedback</a>
+                    <a href="/Menu/index.html">Home</a>
+                    <a href="/Sobre/sobre.html">Sobre</a>
+                    <a href="/Contato/contato.html">Contato</a>
+                    <a href="/Perfil/perfil.html">Perfil</a>
+                    <a href="/AGENDAMENTO/AGENDAMENTO.html">Agendamento</a>
+                    <a href="/Feedback Academia/academiaFeedback.html">Feedback</a>
                 </nav>
                 <div class="search-box">
-                    <input type="text" placeholder="Pesquisar...">
-                    <button>Buscar</button>
+                    <a href="/Pesquisa/pesquisa.html"><button class="btn btn-sucess">Pesquisar</button></a>
                 </div>
             </div>
-            <a href=""><img class="logo" src="LOGO (2).png" alt="Logo do site"></a>
+            <a href="/Menu/index.html"><img class="logo" src="img/logoacessoativo.png" alt="Logo do site"></a>
         </div>
     </header>
-    <section>
+    <section class="">
         <form>
-            <fieldset>
+            <fieldset class="gymselect">
                 <legend>Escolha Academia: </legend>
                 <label for="nome">Academia:</label> <br>
                 <input class="option" type="text" id="pesquisa" name="pesquisa" placeholder="Academia PB"> <br>
             </fieldset>
-            <fieldset>
+            <fieldset class="info">
                 <legend>Informações de agendamento: </legend>            
                 <label for="data">Data da Aula:</label>
                 <input type="date" id="data" name="data" required> <br>
                 <label for="hora">Hora da Aula:</label>
                 <input type="time" id="hora" name="hora" required> <br>                
             </fieldset>
-            <fieldset>
+            <fieldset class="personalinfo">
                 <legend>Informações Pessoais: </legend>
                 <label for="nome">Nome completo:</label> <br>
                 <input class="option" type="text" id="nome" name="nome" required> <br>
@@ -88,14 +87,13 @@
                 <label for="observacoes">Observações:</label> <br>
                 <textarea class="option" id="observacoes" name="observacoes" rows="4"></textarea> <br>
 
-                <label for="termos_condicoes"> <br>
+                <label for="termos_condicoes">
                     <input class="option" type="checkbox" id="termos_condicoes" name="termos_condicoes" required>
-                    Eu li e concordo com os termos e condições.
-                </label> <br>
+                    <br>Eu li e concordo com os termos e condições.</br>
+                </label>
 
-                <button class="option" type="submit">Agendar</button>
+                <button class="agendar" type="submit">Agendar</button>
             </fieldset>
-            <img src="logoacademia.jpg" alt="logo">
         </form>        
     </section>
     <footer>
