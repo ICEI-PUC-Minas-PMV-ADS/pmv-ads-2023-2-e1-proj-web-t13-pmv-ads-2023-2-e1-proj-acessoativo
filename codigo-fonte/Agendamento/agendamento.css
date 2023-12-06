@@ -16,7 +16,9 @@
 
 header {
     background-color: yellow;
-    height: 60px;
+    height: 70px;
+    box-shadow: 5px 5px 5px #000;
+    margin-bottom: 50px;
 }
 
 a img {
@@ -39,6 +41,29 @@ a img {
     align-items: center;
 }
 
+.search-box input[type="text"] {
+    width: 150px;
+    padding: 5px;
+    border: 1px solid #000;
+    border-radius: 3px;
+    margin-left: 100px;
+}
+
+.search-box button {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 15px;
+    margin-left: 150px;
+    cursor: pointer;
+
+}
+
+.logo {
+    width: 150px;
+    padding: 30px;
+}
 .menu {
     width: 660px;
     display: flex;
@@ -52,6 +77,32 @@ a img {
     font-family: 'Roboto', sans-serif;
 }
 
+.gymselect {
+    width: 500px;
+    padding: 1%;
+    margin-left: 650px;
+    text-align: center;
+    margin-top: 40px;
+    box-shadow: 5px 5px 5px #000;
+}
+
+.info {
+    width: 500px;
+    padding: 1%;
+    margin-left: 650px;
+    text-align: center;
+    box-shadow: 5px 5px 5px #000;
+}
+
+.personalinfo {
+    width: 500px;
+    padding: 1%;
+    margin-left: 650px;
+    text-align: center;
+    box-shadow: 5px 5px 5px #000;
+    margin-bottom: 50px;
+
+}
 section {
     width: 100%;    
 }
@@ -59,31 +110,60 @@ section {
 section form {
     height: 100%;
     width: 100%;
-    color: whitesmoke;
+    color:white;
     min-width: 300px;
-    background-color: #888;    
+    background-color: white;    
 }
 
 legend {
     text-align: center;
     font-size: 350%;
+    color: #000;
 }
 
 label {
     text-align: left;
+    color: #000;
+    font-size: 20px;
 }
 
 .option {
     width: 200px;
+    
 }
 
 .option1 {
-    width: 60%;
+    width: 44%;
+}
+.agendar {
+    align-items: center;
+    justify-items: center;
+    width: 200px;
+    padding: 10px;
 }
 
+.termos_condicoes {
+    justify-content: center;
+    align-items: center;
+    
+}
 footer {
     background-color: yellow;
-    clear: both;    
+    color: #000;
+    padding: 10px 0;
+}
+
+footer .container-grid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+footer p {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 15px;
 }
 
 header div a img {
