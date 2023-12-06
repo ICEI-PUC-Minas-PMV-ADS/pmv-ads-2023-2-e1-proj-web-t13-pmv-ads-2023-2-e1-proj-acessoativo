@@ -18,10 +18,12 @@ h2 {
 
 }
 
-header {
+header{
     background-color: yellow;
-    height: 60px;
+    height: 70px;
+    box-shadow: 5px 5px 5px #000;
 }
+
 
 a img {
     width: 100px;
@@ -56,6 +58,22 @@ a img {
     font-family: 'Roboto', sans-serif;
 }
 
+.search-box button {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 15px;
+    margin-left: 150px;
+    cursor: pointer;
+}
+
+.logo{
+    width: 150px;
+    margin-top: 10px;
+    padding: 30px;
+}
+
 section {
     width: 100%;    
 }
@@ -73,22 +91,67 @@ legend {
 }
 
 label {
-    text-align: left;
+    text-align: center;
+    margin-left: 150px;
+
 }
 
 .option {
     width: 200px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 150px;
 }
 
 .option1 {
     width: 60%;
+    align-items: center;
+    justify-content: center;
 }
 
+.gyminfo {
+    width: 600px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 600px;
+    margin-top: 30px;
+    padding: 50px;
+    box-shadow: 5px 5px 5px #000;
+
+
+}
+
+.clientename {
+    margin-top: 50px;
+}
+.historictext {
+    font-size: 40px;
+}
+
+.historictable {
+    margin-top: 50px;
+    
+}
 footer {
     background-color: yellow;
-    clear: both;  
-    margin-top: 900px;  
+    color: #000;
+    padding: 15px 0;
+    margin-top: 300px;
 }
+
+footer .container-grid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+footer p {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
 
 header div a img {
     width: 100px;
