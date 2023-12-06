@@ -14,9 +14,38 @@
 
 }
 
+.search-box {
+    display: flex;
+    align-items: center;
+}
+
+.search-box input[type="text"] {
+    width: 150px;
+    padding: 5px;
+    border: 1px solid #000;
+    border-radius: 3px;
+    margin-left: 100px;
+}
+
+.search-box button {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 15px;
+    margin-left: 150px;
+    cursor: pointer;
+}
+
+.logo {
+    width: 150px;
+    padding: 30px;
+}
 header {
     background-color: yellow;
-    height: 60px;
+    height: 70px;
+    box-shadow: 5px 5px 5px #000;
+    margin-bottom: 50px;
 }
 
 a img {
@@ -52,6 +81,21 @@ a img {
     font-family: 'Roboto', sans-serif;
 }
 
+.gymselect {
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    padding: 100px;
+    margin-left: 700px;
+}
+
+.avaliation{
+    width: 400px;
+    padding: 100px;
+    margin-left: 700px;
+
+}
+
 section.secao {
     min-height: 100vh;  /* Definindo a altura mínima como 100% da altura da viewport */
     box-sizing: border-box;
@@ -62,39 +106,64 @@ section form {
     height: 100%;
     width: 100%;    
     min-width: 300px;
-    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url(logoacademia.jpg);        
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url();        
 }
 
 section form legend {
-    color: yellow;
+    color: #000;
+    text-shadow: 4px 4px 4px yellow;
 }
 
 section form fieldset label {
-    color: black;
+    color: #000;
+    margin-top: 10px;
+    align-items: center;
 }
 
 legend {
     text-align: center;
     font-size: 350%;
+
+    
+
 }
 
 label {
-    text-align: left;
+    text-align: center;
+
 }
 
 .option {
     width: 200px;
+    align-items: center;
+    margin-top: 20px;
 }
 
-
+.botaoenviar {
+    background-color: yellow;
+    width: 200px;
+    padding: 10px;
+    margin-top: 20px;
+}
 footer {
     background-color: yellow;
+    color: #000;
+    padding: 10px 0;
 }
 
-.rodape {
-    height: 20px;
-    clear: both;
+footer .container-grid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
+
+footer p {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 15px;
+}
+
 
 header div a img {
     width: 100px;
