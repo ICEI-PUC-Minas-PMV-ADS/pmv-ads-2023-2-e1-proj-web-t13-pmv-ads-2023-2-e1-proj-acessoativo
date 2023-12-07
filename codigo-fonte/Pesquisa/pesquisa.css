@@ -150,6 +150,15 @@ header {
     margin-bottom: 5px; /* Adiciona espaço entre as labels */
 }
 
+.checkterms {
+    align-items: center;
+    margin-left: 700px;
+    width: 600px;
+    padding: 20px;
+    border-color: 10px #000;
+    font-size: 30px;
+}
+
 input[type="submit"] {
     width: 5%;
     padding: 10px;
