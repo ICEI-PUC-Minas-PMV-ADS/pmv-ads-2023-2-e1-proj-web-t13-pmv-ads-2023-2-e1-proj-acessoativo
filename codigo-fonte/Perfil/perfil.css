@@ -79,6 +79,7 @@ header {
 
 .search-box button {
     margin-left: 10px;
+    width: 100px;
 }
 
 .texto-centro {
