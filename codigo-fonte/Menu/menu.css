@@ -102,29 +102,30 @@ justify-content: space-between;
 div.caixa {
     width: 150px;
     display: flex; 
-    flex-direction: column;
+
     justify-content: center; 
     align-items: center; 
     margin-top: 75px;
     padding-bottom: 75px;
     margin-left: 830px;
+
     
 }
 
 div.caixa img {
     display: block;
     margin: 20px 0; 
+    margin-left: 500px;
 }
 .caixa {
     display: flex;
     justify-content: space-around;
     gap: 20px;
+
 }
 
-.Imagem1,
-.Imagem2 {
-    display: flex;
-    flex-direction: column;
+.Imagem1 {
+    width: auto;
     align-items: center;
 }
 
