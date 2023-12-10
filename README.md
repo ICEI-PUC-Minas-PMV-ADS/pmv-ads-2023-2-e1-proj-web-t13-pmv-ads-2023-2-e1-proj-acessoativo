@@ -36,7 +36,7 @@ Esse projeto consiste em desenvolver um site de Front-End, que forneça informa�
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+(https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/)
 
 # Código-Fonte
 
