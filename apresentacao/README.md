@@ -10,4 +10,4 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads
 
 ## Hospedagem
 
-A <a href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/src/">Hospedagem</a> da aplicação foi feita utilizando a plataforma GitHub Pages.
+A <a href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-proj-acessoativo/">Hospedagem</a> da aplicação foi feita utilizando a plataforma GitHub Pages.
