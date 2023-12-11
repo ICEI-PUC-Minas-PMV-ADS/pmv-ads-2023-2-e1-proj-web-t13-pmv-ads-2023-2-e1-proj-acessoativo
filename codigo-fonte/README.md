@@ -4,8 +4,11 @@
 
 Nesse primeiro eixo do curso, para simplificar a utilização do Git e a organização das pastas e artefatos de implementação no sistema de arquivos, sugerimos que o projeto seja estruturado de modo que cada aluno trabalhe com seus arquivos nas suas respectivas pastas, identificadas por nomes das suas respectivas telas. Por exemplo:
 
--Pastas Cadastro, Contato, Login, Menu, Perfil, Sobre e Pesquisa – Desenvolvedor responsável: Natan Carvalho <br>
+-Pastas Cadastro, Menu, Perfil e Pesquisa – Desenvolvedor responsável: Natan Carvalho <br>
 -Pastas Agendamento, Feedback Academia e Histórico – Desenvolvedor responsável: Guilherme Brito
+-Pasta Contato - Desenvolvedor responsável: Alana Barros
+-Pasta Sobre - Desenvolvedor responsável: Ana Luiza Armond
+-Pasta Login - Desenvolvedor responsável: Walter Santos
 
 ## Instalação do Site
 
