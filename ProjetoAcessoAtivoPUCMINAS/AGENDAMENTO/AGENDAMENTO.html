@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agendamento</title>
+    <link rel="stylesheet" href="style2.css">
+</head>
+
+<body>
+    <header>
+        <div class="container-gridposicionamento-header">
+            <div class="menu-search">
+                <nav id="menu" class="menu">
+                    <a href="/Menu/index.html">Home</a>
+                    <a href="/Sobre/sobre.html">Sobre</a>
+                    <a href="/Contato/contato.html">Contato</a>
+                    <a href="/Perfil/perfil.html">Perfil</a>
+                    <a href="/AGENDAMENTO/AGENDAMENTO.html">Agendamento</a>
+                    <a href="/Feedback Academia/academiaFeedback.html">Feedback</a>
+                </nav>
+                <div class="search-box">
+                    <a href="/Pesquisa/pesquisa.html"><button class="btn btn-sucess">Pesquisar</button></a>
+                </div>
+            </div>
+            <a href="/Menu/index.html"><img class="logo" src="img/logoacessoativo.png" alt="Logo do site"></a>
+        </div>
+    </header>
+    <section class="">
+        <form>
+            <fieldset class="gymselect">
+                <legend>Escolha Academia: </legend>
+                <label for="nome">Academia:</label> <br>
+                <input class="option" type="text" id="pesquisa" name="pesquisa" placeholder="Academia PB"> <br>
+            </fieldset>
+            <fieldset class="info">
+                <legend>Informações de agendamento: </legend>            
+                <label for="data">Data da Aula:</label>
+                <input type="date" id="data" name="data" required> <br>
+                <label for="hora">Hora da Aula:</label>
+                <input type="time" id="hora" name="hora" required> <br>                
+            </fieldset>
+            <fieldset class="personalinfo">
+                <legend>Informações Pessoais: </legend>
+                <label for="nome">Nome completo:</label> <br>
+                <input class="option" type="text" id="nome" name="nome" required> <br>
+
+                <label for="email">E-mail:</label> <br>
+                <input class="option" type="email" id="email" name="email" required> <br>
+
+                <label for="telefone">Telefone:</label> <br>
+                <input class="option" type="tel" id="telefone" name="telefone" required> <br>
+
+                <label for="endereco">Endereço:</label> <br>
+                <input class="option1" type="text" id="endereco" name="endereco" required> <br>
+
+                <label for="cidade">Cidade:</label> <br>
+                <input class="option" type="text" id="cidade" name="cidade" required> <br>
+
+                <label for="estado">Estado:</label> <br>
+                <input class="option" type="text" id="estado" name="estado" required> <br>
+
+                <label for="cep">CEP:</label> <br>
+                <input class="option" type="text" id="cep" name="cep" required> <br>
+
+                <label for="plano">Plano desejado:</label> <br>
+                <select class="option" id="plano" name="plano" required>
+                    <option value="plano_basico">Plano Básico</option>
+                    <option value="plano_intermediario">Plano Intermediário</option>
+                    <option value="plano_premium">Plano Premium</option>
+                </select> <br>
+
+                <label for="inicio">Data de início desejada:</label> <br>
+                <input class="option" type="date" id="inicio" name="inicio" required> <br>
+
+                <label for="horario_preferencial">Horário preferencial de treino:</label> <br>
+                <input class="option" type="text" id="horario_preferencial" name="horario_preferencial"> <br>
+
+                <label for="modalidade">Modalidade de treino:</label> <br>
+                <select class="option" id="modalidade" name="modalidade">
+                    <option value="musculacao">Musculação</option>
+                    <option value="aerobica">Aeróbica</option>
+                    <option value="pilates">Pilates</option>
+                </select> <br>
+
+                <label for="observacoes">Observações:</label> <br>
+                <textarea class="option" id="observacoes" name="observacoes" rows="4"></textarea> <br>
+
+                <label for="termos_condicoes">
+                    <input class="option" type="checkbox" id="termos_condicoes" name="termos_condicoes" required>
+                    <br>Eu li e concordo com os termos e condições.</br>
+                </label>
+
+                <button class="agendar" type="submit">Agendar</button>
+            </fieldset>
+        </form>        
+    </section>
+    <footer>
+        <p>&copy; 2023 Acesso Ativo. Todos os direitos reservados.</p>
+    </footer>
+</body>
+
+</html>

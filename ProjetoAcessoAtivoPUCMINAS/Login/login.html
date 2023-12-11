@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Página de Login</title>
+    <link rel="stylesheet" href="login.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Login</h2>
+
+        <!-- Adicione o elemento para exibir a mensagem de erro -->
+        <p id="errorMessage" class="error-message"></p>
+
+        <form id="loginForm">
+            <label for="username">Usuário:</label>
+            <input type="text" id="username" name="username" required>
+
+            <label for="password">Senha:</label>
+            <input type="password" id="password" name="password" required>
+
+            <input type="submit" value="Entrar">
+        </form>
+    </div>
+
+    <script>
+        document.getElementById("loginForm").addEventListener("submit", function(event) {
+            event.preventDefault();
+            var username = document.getElementById("username").value;
+            var password = document.getElementById("password").value;
+
+            // Verifique se os campos estão vazios
+            if (username === "" || password === "") {
+                document.getElementById("errorMessage").textContent = "Por favor, preencha todos os campos.";
+            } else {
+                // Se não houver erro, limpe a mensagem de erro
+                document.getElementById("errorMessage").textContent = "";
+
+                console.log("Usuário: " + username);
+                console.log("Senha: " + password);
+
+                // Redirecionamento para outra página
+                window.location.href = "/Menu/index.html";
+            }
+        });
+    </script>
+</body>
+</html>

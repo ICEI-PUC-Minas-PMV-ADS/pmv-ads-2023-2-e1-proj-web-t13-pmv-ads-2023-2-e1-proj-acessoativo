@@ -1,0 +1,178 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2 {
+    text-align: center;
+}
+
+.container-gridposicionamento-header {
+    width: 1200px;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+header{
+    background-color: yellow;
+    height: 70px;
+    box-shadow: 5px 5px 5px #000;
+}
+
+
+a img {
+    width: 100px;
+    height: 100px;
+}
+
+.menu-search {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu {
+    margin-left: 20px;
+}
+
+.search-box {
+    display: flex;
+    align-items: center;
+}
+
+.menu {
+    width: 660px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu a {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.search-box button {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 15px;
+    margin-left: 150px;
+    cursor: pointer;
+}
+
+.logo{
+    width: 150px;
+    margin-top: 10px;
+    padding: 30px;
+}
+
+section {
+    width: 100%;    
+}
+
+section form {
+    height: 100%;
+    width: 100%;
+    color: black;
+    min-width: 300px;   
+}
+
+legend {
+    text-align: center;
+    font-size: 350%;
+}
+
+label {
+    text-align: center;
+    margin-left: 150px;
+
+}
+
+.option {
+    width: 200px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 150px;
+}
+
+.option1 {
+    width: 60%;
+    align-items: center;
+    justify-content: center;
+}
+
+.gyminfo {
+    width: 600px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 600px;
+    margin-top: 30px;
+    padding: 50px;
+    box-shadow: 5px 5px 5px #000;
+
+
+}
+
+.clientename {
+    margin-top: 50px;
+}
+.historictext {
+    font-size: 40px;
+}
+
+.historictable {
+    margin-top: 50px;
+    
+}
+footer {
+    background-color: yellow;
+    color: #000;
+    padding: 15px 0;
+    margin-top: 300px;
+}
+
+footer .container-grid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+footer p {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+
+header div a img {
+    width: 100px;
+    height: 100px;
+}
+
+section form img {    
+    width: 300px;
+    height: 300px;
+    margin-left: 45%;    
+}
+th {
+    color: white;
+    background-color: grey;
+}
+
+td {
+    background-color: azure;
+}
+
+table {
+    width: 100%;
+    background-color: white;
+}
